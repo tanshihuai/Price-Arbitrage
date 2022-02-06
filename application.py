@@ -81,7 +81,7 @@ def find():
     avg_price = avg_price / len(chair_set)
     print(f"Average price = ${avg_price:.2f}")
 
-    TOKEN = "OTMwNDQ4MDk5NDcyNzE5ODcy.Yd2BUQ.vFTln76hte2QTqgacg3A2ZBFNec"
+    TOKEN = "# token here"
     client = discord.Client()
 
     @client.event
