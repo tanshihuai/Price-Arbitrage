@@ -4,9 +4,9 @@ This is a program that alerts you when a specified item on ebay is significantly
 
 How to set up the program:<br>
     Set URL in application.py.<br>
-    :Set keywords to be excluded in application.py.<br>
-    Set discord channel in application.py.<br>
-    Set Discord token in application.py.<br>
+    Set keywords to be excluded in application.py.<br>
+    Set discord channel in application.py.<br>
+    Set Discord token in application.py.<br>
 
 How to use:<br>
-    Run main.py.<br>
+    Run main.py.<br>
